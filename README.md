@@ -1,5 +1,4 @@
-# Here my lessons
-Home works for course.
-My steps:
--first commit
--add files
+#Stepic. Selenium Course
+Home works for course:
+https://stepik.org/course/575
+
